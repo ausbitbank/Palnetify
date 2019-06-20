@@ -5,7 +5,7 @@ window.browser = (function () {
     window.chrome;
 })();
 
-var steemdomains = ["steemit.com","steempeak.com","busy.org","steem.kr","utopian.io","dsound.audio","appics.com"];
+var steemdomains = ["steemit.com","steempeak.com","busy.org","steem.kr","utopian.io","dsound.audio","appics.com","steemitwallet.com"];
 var paldomains = ["www.palnet.io","palnet.io"];
 if (steemdomains.includes(location.hostname)){
 // Active tab is on a non-palnet steem domain
