@@ -2,6 +2,7 @@
 Simple browser extension to redirect users to palnet.io from other steem frontends
 
 Download here - https://github.com/ausbitbank/Palnetify/archive/master.zip
+
 Unzip it somewhere safe, remember where you saved it.
 
 # For firefox users: 
