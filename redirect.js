@@ -19,6 +19,6 @@ location.replace(location.protocol + "//steempeak.com" + location.pathname + loc
 
 } else {
 // Active tab is somewhere else entirely
-console.log("Not redirecting, this is not a steem ui");
+console.log("This is not a steem ui, opening palnet.io");
 location.replace("https://www.palnet.io");
 }
