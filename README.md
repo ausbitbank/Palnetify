@@ -8,11 +8,16 @@ Download here - https://github.com/ausbitbank/Palnetify/archive/master.zip
 Unzip it somewhere safe, remember where you saved it.
 
 # For Firefox users: 
+
+Now available in the firefox addon store - https://addons.mozilla.org/en-US/firefox/addon/palnetify/
+
 - In the address bar type "about:debugging" (without quotes) , hit enter
 - Click the "Load temporary addon" button in the top right
 - Select the "manifest.json" file in the directory where you unzipped the file
 
 # For Chrome users:
+Now available in the chrome addon store - https://chrome.google.com/webstore/detail/palnetify/igkliljbfbdojhpnpjcpfioibhfccpil
+
 - In the address bar type "chrome://extensions" (without quotes) , hit enter
 - Make sure "Developer mode" is enabled in the top right corner
 - Click the "Load unpacked" button in the top left
